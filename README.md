@@ -128,7 +128,7 @@ Welcome to my GitHub profile! I am a passionate full stack web developer with ex
 
 <h3 align="left"> 👋 Hi there! I'm Rafi, a Full Stack web developer in Bangladesh</h3>
 
--🌟 Skills: Proficient in the Full stack - MongoDB, Express, React, Next.Js Python,  Node.js. JavaScript,  and React.
+-🌟 Skills: Proficient in the Full stack - Next.Js, MongoDB, Mongoose, Typescript, Express, React, Redux Python,  Node.js. JavaScript,  and React.
 
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
