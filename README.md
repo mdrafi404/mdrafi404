@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am a passionate full stack web developer with ex
 <br/>
 <br />
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdrafi276&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=mdrafi404&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p> -->
 
 ## :mailbox: Reach me out,
@@ -121,10 +121,10 @@ Welcome to my GitHub profile! I am a passionate full stack web developer with ex
   
 
 </table>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrafi276&theme=react">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrafi404&theme=react">
 
 <h1 align="left">💫 About Me:</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi276&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi276" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdrafi404&label=Profile%20views&color=0e75b6&style=flat" alt="mdrafi404" /> </p>
 
 <h3 align="left"> 👋 Hi there! I'm Rafi, a Full Stack web developer in Bangladesh</h3>
 
